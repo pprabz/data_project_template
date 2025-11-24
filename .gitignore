@@ -1,0 +1,18 @@
+# OS / editor junk
+.DS_Store
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
+venv/
+
+# Data – do NOT commit datasets
+data_raw/
+data_processed/
+outputs/
+
